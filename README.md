@@ -7,9 +7,13 @@ In an effort to make things more interactive...
 1. Introduce Project: One last time, and find its four corners
 2. Express dismay at temporal contraints
 3. Go through this sub-list
+  
   a. What materials am I providing? Aim at larger io or carrd site, hyperlink hub with explanatory lexias
+  
   b. How have I prepared these? So far, I aim to provide some more clear instructions on this readme and it be utilized as a launching pad for independent research -- or just curiosity-satiating. 
+  
   c. When I look back, where di I end up? Simultanously very far away -- and yet, somewhere I want to be. Scope, scope, scope.
+  
   d. What have I learned that I could apply to future projects? Tons. Utilize summers.
 
 
@@ -33,5 +37,6 @@ Okay, so, **enough preamble! Time for some information!**
 
 So YES!
 1. Engage with the 'projectdefinition.md'
-2. Engage with 'churchdefinitions.md' AND 'kumuiteration3.png'
+2. Engage with 'churchdefinitions.md' AND ANY images present.
 3. Use the 'kumuexpanded.md' file as a temporary broken-hyperlinked page by which you can access lexias that fill in the MOST revelatory information/doctrine/explanations from the info web.
+4. Keep any and all other md files in the back of your mind for DSAM 2.
