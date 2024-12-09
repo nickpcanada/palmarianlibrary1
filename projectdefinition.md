@@ -7,3 +7,9 @@
 **The purpose** is to provide commentary on the Palmarian Catholic Church's previously ultra-sercretive liturgical practices and general facets of the faith that have been, up until recently, entirely obscured. Another purpose is to grant insight into how cults and cult-like groups can bring young members in through both their methods and the audience's vulnerabilities/desires.
 
 **Why TikTok?** In an effort to reach younger people who might be falling into a rightward and more conservative shift, the Palmarian Church seems to focus most of its internet outreach onto both TikTok and instagram. Specifically TikTok, though, has the youngest demographics out of many social media platforms, therefore, it makes the most sense to use it as a site to track engagement of younger people.
+
+**Boundaries for DSAM 1** Figuring out the four corners and giving myself a more springy trampoline to launch into DSAM 2. 
+
+**Goals for DSAM 2** Making this into the site of my dreams. Or, at least, fleshing out the entire catalog of content on the main channel and finding more efficient ways to demonstrate this data, visually. Don't get bullied too hard.
+
+**Timescale for entire project** Ideally, end of summer.
