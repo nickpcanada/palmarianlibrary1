@@ -12,4 +12,4 @@ This page is a work in progress.
 
 **The Pope** of the Palmarian church is actually considered both theologically and ontologically to be an anti-pope. In addition to this status of undermining a singular papal office (and the historical significance of this office within the Palmarian church), there is no clear succession plan, and papal authority is passed down through a monarch line, rather than a democratic vote.
 
-**Carmelite Nuns** are members of a religious order within the Palmarian church. These nuns focus on prayer, contemplattion, and living a traditional cloistered life. However, the intense requirements of women dress and behavior mandated by the church echoes into the order much stronger than the non-sectarian counterparts.
+**Carmelite Nuns** are members of a religious order within the Palmarian church. These nuns focus on prayer, contemplation, and living a traditional cloistered life. However, the intense requirements of women dress and behavior mandated by the church echoes into the order much stronger than the non-sectarian counterparts.
